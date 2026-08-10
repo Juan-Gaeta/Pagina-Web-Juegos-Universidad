@@ -2,6 +2,24 @@
 
 Este proyecto es una pequeña página web estática creada para mostrar una colección personal de videojuegos, favoritos, sagas preferidas y un apartado secreto con un formulario de acceso.
 
+## Capturas de pantalla
+
+### Pagina inicial
+
+![1786384209193](image/README/1786384209193.png)
+
+### Pagina de juegos favoritos
+
+![1786384238690](image/README/1786384238690.png)
+
+### Pagina de sagas favoritas
+
+![1786384267408](image/README/1786384267408.png)
+
+### Pagina de mapa embebido
+
+![1786384295771](image/README/1786384295771.png)
+
 ## ¿Qué incluye?
 
 - Página principal con una descripción personal.
