@@ -6,7 +6,7 @@ function login(){
     user = document.getElementById("usuario").value;
     pass = document.getElementById("contraseña").value;
 
-    if(user == "Carlos" && pass == "120902")
+    if(user == "Carlos" && pass == "456214")
     {
         window.location = "pagina_secreta.html"
     }
@@ -14,7 +14,7 @@ function login(){
     {
         alert("Usuario incorrecto");
     }
-    else if(pass !== "120902")
+    else if(pass !== "456214")
     {
         alert("Contraseña incorrecta");
     }
